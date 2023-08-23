@@ -1,0 +1,28 @@
+body
+{
+  color: white;
+  background: red;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+label
+{
+    font-style: oblique;
+}
+.gesture_name
+{
+  font-size: 40px;
+  font-style: oblique;
+}
+.gesture
+{
+  font-size: 40px;
+}
